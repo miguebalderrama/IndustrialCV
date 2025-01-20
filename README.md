@@ -6,7 +6,7 @@ Este proyecto combina **Deep Learning** y **visión por computadora** para reali
 
 ---
 
-![Conteo objetis](reports\figures\imgReadme.jpg)
+![Conteo objetos](reports/figures/imgReadme.jpg)
 
 
 ## Características Clave
