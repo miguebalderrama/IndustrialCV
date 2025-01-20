@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Proyecto: Conteo y Clasificación de Objetos en Tiempo Real
 
 ## Descripción General
