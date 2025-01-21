@@ -1,10 +1,10 @@
 
-# Proyecto: Conteo y Clasificación de Objetos en Tiempo Real
+#  Computer Vision: Conteo y Clasificación de Objetos en Tiempo Real
 
 ## Descripción General
 Este proyecto combina **Deep Learning** y **visión por computadora** para realizar el conteo y clasificación de objetos en tiempo real, utilizando el modelo **YOLOv11**. Su desarrollo está orientado a brindar herramientas innovadoras en el **Laboratorio de Automatización** de la **Universidad Nacional de General Sarmiento (UNGS)**, mejorando las prácticas de las ingenierías mediante sistemas de visión artificial.
 
----
+
 
 ![Conteo objetos](reports/figures/imgReadme.jpg)
 
@@ -14,14 +14,13 @@ Este proyecto combina **Deep Learning** y **visión por computadora** para reali
 - **Clasificación por categoría**: Rastrea y clasifica diferentes tipos de objetos con alta precisión.
 - **Interfaz visual**: Los resultados son procesados y anotados directamente sobre las imágenes o videos analizados.
 
----
 
 ## Posibles Aplicaciones
 - **Control de accesos**: Monitoreo de objetos o personas que ingresan o salen de zonas restringidas.
 - **Monitoreo de flujos**: Conteo y clasificación de objetos en almacenes o procesos industriales.
 - **Detección de fallas**: Identificación de defectos o irregularidades en objetos detectados.
 
----
+
 
 ## Avances Técnicos
 1. **Entrenamiento del Modelo**:
@@ -32,7 +31,7 @@ Este proyecto combina **Deep Learning** y **visión por computadora** para reali
    - Implementación de algoritmos para identificar objetos que cruzan líneas o regiones predefinidas.
    - Resultados mostrados directamente sobre las imágenes o videos analizados.
 
----
+
 
 ## Tecnologías y Herramientas
 - **Modelo Base**: YOLOv11
@@ -40,7 +39,7 @@ Este proyecto combina **Deep Learning** y **visión por computadora** para reali
 - **Hardware**: PC de alto rendimiento; dispositivos edge como Raspberry Pi (en progreso).
 - **Protocolos**: MQTT para conectividad IoT e integración industrial.
 
----
+
 
 ## Instalación
 1. **Clonar el repositorio**:
@@ -59,14 +58,14 @@ Este proyecto combina **Deep Learning** y **visión por computadora** para reali
    python main.py
    ```
 
----
+
 
 ## Uso
 1. Cargar las imágenes o videos en la carpeta `data/input`.
 2. Configurar los parámetros en `config.yaml` (líneas de interés, áreas de detección, etc.).
 3. Ejecutar el sistema y visualizar los resultados en tiempo real.
 
----
+
 
 ## Próximos Pasos
 - **Optimizar métricas de rendimiento**:
@@ -89,9 +88,8 @@ Para más información o consultas, contacta a:
 - **Email**: [tu_email@ejemplo.com]
 - **Institución**: Universidad Nacional de General Sarmiento
 
----
 
-© 2025 - Proyecto de Visión por Computadora. Todos los derechos reservados.
+
 
 
 
